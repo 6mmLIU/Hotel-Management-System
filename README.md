@@ -9,13 +9,6 @@ This project is a simple Hotel Management System written in C++. It includes fun
 - **Check-Out**: Manages customer check-out, including billing based on actual stay duration.
 - **Inquiry**: Provides information on room status (available, booked, occupied) and customer details.
 
-## Room Standards
-
-There are 80 rooms categorized into four standards:
-1. **Single Room**: ¥150 per day
-2. **Double Room**: ¥200 per day
-3. **Standard Room**: ¥300 per day
-4. **Presidential Suite**: ¥600 per day
 
 ## Usage
 
